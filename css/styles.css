@@ -1,7 +1,11 @@
 
-/*//.bg-success {
-  margin: 10px;
-}*/
+.welcome {
+  text-align: center;
+}
+
+.welcome-bullets {
+  text-align: right;
+}
 
 .bg-info {
   padding: 10px;
